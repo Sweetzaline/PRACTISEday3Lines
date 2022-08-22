@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\bin\Debug\netcoreapp3.1\StartMessage.exe
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\bin\Debug\netcoreapp3.1\StartMessage.deps.json
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\bin\Debug\netcoreapp3.1\StartMessage.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\bin\Debug\netcoreapp3.1\StartMessage.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\bin\Debug\netcoreapp3.1\StartMessage.dll
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\bin\Debug\netcoreapp3.1\StartMessage.pdb
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\obj\Debug\netcoreapp3.1\StartMessage.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\obj\Debug\netcoreapp3.1\StartMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\obj\Debug\netcoreapp3.1\StartMessage.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\obj\Debug\netcoreapp3.1\StartMessage.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\obj\Debug\netcoreapp3.1\StartMessage.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\obj\Debug\netcoreapp3.1\StartMessage.dll
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\obj\Debug\netcoreapp3.1\StartMessage.pdb
+C:\Users\Amit Pegu\Desktop\LineComparisionProblem\StartMessage\StartMessage\obj\Debug\netcoreapp3.1\StartMessage.genruntimeconfig.cache
